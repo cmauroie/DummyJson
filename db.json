@@ -6,7 +6,7 @@
 	},
 	{
 		"id": "welcome.widget",
-		"enabled": true
+		"enabled": false
 	},
 	{
 		"id": "accounts.widget",
