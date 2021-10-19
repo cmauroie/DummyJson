@@ -18,7 +18,7 @@
 	},
 	{
 		"id": "insights.widget",
-		"enabled": false
+		"enabled": true
   	}
 	],
 "ad2":[
@@ -40,7 +40,7 @@
 	},
 	{
 		"id": "insights.widget",
-		"enabled": true
+		"enabled": false
   	}
 	],
 "ad3":[
