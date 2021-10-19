@@ -1,0 +1,22 @@
+[
+	{
+		"id": "search.widget",
+		"enabled": true
+	},
+	{
+		"id": "welcome.widget",
+		"enabled": true
+	},
+	{
+		"id": "accounts.widget",
+		"enabled": true
+	},
+	{
+		"id": "menu.widget",
+		"enabled": true
+	},
+	{
+		"id": "insights.widget",
+		"enabled": true
+  }
+]
