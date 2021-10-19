@@ -1,4 +1,5 @@
-[
+{
+"ad":[
 	{
 		"id": "search.widget",
 		"enabled": true
@@ -20,3 +21,4 @@
 		"enabled": true
   }
 ]
+}
