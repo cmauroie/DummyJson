@@ -18,7 +18,7 @@
 	},
 	{
 		"id": "insights.widget",
-		"enabled": true
+		"enabled": false
   }
 ]
 }
