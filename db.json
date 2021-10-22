@@ -64,5 +64,27 @@
 		"id": "insights.widget",
 		"enabled": true
   	}
-	]
+	],
+"ad4":[
+	{
+		"id": "search.widget",
+		"enabled": false
+	},
+	{
+		"id": "welcome.widget",
+		"enabled": false
+	},
+	{
+		"id": "accounts.widget",
+		"enabled": false
+	},
+	{
+		"id": "menu.widget",
+		"enabled": false
+	},
+	{
+		"id": "insights.widget",
+		"enabled": false
+  	}
+	]	
 }
